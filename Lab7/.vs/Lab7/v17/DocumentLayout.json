@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OOP Lab\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5934941E-6CA0-4828-8B82-814EFB345F87}|Lab7.csproj|f:\\oop lab\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5934941E-6CA0-4828-8B82-814EFB345F87}|Lab7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5934941E-6CA0-4828-8B82-814EFB345F87}|Lab7.csproj|f:\\oop lab\\lab7\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5934941E-6CA0-4828-8B82-814EFB345F87}|Lab7.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59243DE9-8596-426E-8491-64ACA71383CE}|..\\MSTest_Lab7\\MSTest_Lab7.csproj|f:\\oop lab\\mstest_lab7\\bookmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5934941E-6CA0-4828-8B82-814EFB345F87}|Lab7.csproj|f:\\oop lab\\lab7\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5934941E-6CA0-4828-8B82-814EFB345F87}|Lab7.csproj|solutionrelative:enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5934941E-6CA0-4828-8B82-814EFB345F87}|Lab7.csproj|f:\\oop lab\\lab7\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{5934941E-6CA0-4828-8B82-814EFB345F87}|Lab7.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59243DE9-8596-426E-8491-64ACA71383CE}|..\\MSTest_Lab7\\MSTest_Lab7.csproj|f:\\oop lab\\mstest_lab7\\mstest_classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 308,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MSTest_ClassDiagram1.cd",
+              "DocumentMoniker": "F:\\OOP Lab\\MSTest_Lab7\\MSTest_ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "..\\MSTest_Lab7\\MSTest_ClassDiagram1.cd",
+              "ToolTip": "F:\\OOP Lab\\MSTest_Lab7\\MSTest_ClassDiagram1.cd",
+              "RelativeToolTip": "..\\MSTest_Lab7\\MSTest_ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-22T18:31:24.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "F:\\OOP Lab\\Lab7\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "F:\\OOP Lab\\Lab7\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-22T18:30:56.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookMSTest.cs",
+              "DocumentMoniker": "F:\\OOP Lab\\MSTest_Lab7\\BookMSTest.cs",
+              "RelativeDocumentMoniker": "..\\MSTest_Lab7\\BookMSTest.cs",
+              "ToolTip": "F:\\OOP Lab\\MSTest_Lab7\\BookMSTest.cs",
+              "RelativeToolTip": "..\\MSTest_Lab7\\BookMSTest.cs",
+              "ViewState": "AgIAALkBAAAAAAAAAAAuwAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:28:05.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\OOP Lab\\Lab7\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "F:\\OOP Lab\\Lab7\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAxwLcAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:26:17.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "F:\\OOP Lab\\Lab7\\Enum.cs",
+              "RelativeDocumentMoniker": "Enum.cs",
+              "ToolTip": "F:\\OOP Lab\\Lab7\\Enum.cs",
+              "RelativeToolTip": "Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:26:05.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\OOP Lab\\Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\OOP Lab\\Lab7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAQwM0BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:25:35.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
